@@ -20,6 +20,6 @@
 
 ## SERVICE
 
-  1. ConsumoAPI - Classe que obtém dados atráves de um HTTP Request
+  1. ConsumoAPI - Classe que obtém dados atráves de um HTTP Request e retorna como JSON.
      
      
