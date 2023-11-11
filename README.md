@@ -20,6 +20,7 @@
 
 ## SERVICE
 
-  1. ConsumoAPI - Classe que obtém dados atráves de um HTTP Request e retorna como JSON.
-     
+  1. ConsumoAPI.java - Classe que obtém dados atráves de um HTTP Request e retorna uma "resposta" como JSON.
+
+  1. ConverteDados.java - Classe que implementa "ConsumoAPI.java" e usa a biblioteca do Jackson para fazer a conversão do JSON retornado.
      
