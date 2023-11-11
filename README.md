@@ -1,1 +1,3 @@
-# screenmatch
+# SeriesFinder
+
+## MODEL
