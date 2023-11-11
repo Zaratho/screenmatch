@@ -45,4 +45,4 @@ E é nesse método que é colocado as classes que irão ser usadas.
 
 ## PRINCIPAL
 
-1. Principal.java - Classe principal onde é instanciado as classes da service para uso. Usando loops para fazer uma interação com o usuário melhor, podendo inserir mais de uma série para visualizar os detalhes e chamar os métodos.
+1. Principal.java - Classe principal onde é instanciado as classes da service para uso. Usando loops para fazer uma interação com o usuário melhor, podendo inserir mais de uma série para visualizar os detalhes e chamar os métodos sem precisar ficar reiniciado o programa toda vez.
