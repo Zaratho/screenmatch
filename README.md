@@ -1,4 +1,4 @@
-# SeriesFinder
+# ScreenMatch
 
 ## MODEL
 
@@ -23,4 +23,7 @@
   1. ConsumoAPI.java - Classe que obtém dados atráves de um HTTP Request e retorna uma "resposta" como JSON.
 
   1. ConverteDados.java - Classe que implementa "ConsumoAPI.java" e usa a biblioteca do Jackson para fazer a conversão do JSON retornado.
-     
+
+  1. BuscaSerie.java - Classe que retorna uma série dependendo da escolha do usuário, obtendo um JSON do endereço e da KEYAPI da IMBD fornecido.
+
+  1. RetornaEpisodios.java - Classe que retorna episódios de uma série escolhida pelo usuário. 
