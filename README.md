@@ -42,3 +42,7 @@
 
 Quando o método run é implementado, o que o código indica que quando o ```public static void main``` chamar o SpringApplication.run, ele invocará esse método run que estamos implementando.
 E é nesse método que é colocado as classes que irão ser usadas.
+
+## PRINCIPAL
+
+1. Principal.java - Classe principal onde é instanciado as classes da service para uso. Usando loops para fazer uma interação com o usuário melhor, podendo inserir mais de uma série para visualizar os detalhes e chamar os métodos.
