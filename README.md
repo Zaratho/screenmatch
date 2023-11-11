@@ -34,4 +34,4 @@
 
   1. EncontraEpisodio.java - Classe que o usuário insere partes ou nome inteiro de um episódio para buscar e informa qual temporada ele está se for encontrado.
 
-  1. ListagemSeriesPorData.java - Classe em que é buscado na série as temporadas após a data inserida, usando LocalDate e DateTimeFormatter para formatar o tempo para o padrão brasileiro.
+  1. ListagemSeriesPorData.java - Classe em que é buscado na série as temporadas após o ano inserida, usando LocalDate e DateTimeFormatter para formatar o tempo para o padrão brasileiro.
