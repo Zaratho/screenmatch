@@ -20,3 +20,4 @@
      Interface usando um método genérico, podendo retornar qualquer entidade.
 
 ## SERVICE
+  2. ?
