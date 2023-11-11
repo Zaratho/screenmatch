@@ -38,6 +38,7 @@
 
 ## ScreenMatchApplication.java
 
-  Classe do SpringBoot onde há um SpringApplication.run onde irá executar algo. Usando a interface CommandLineRunner, será permitido realizar algumas chamadas no método principal. Quando uma interface é implementada, temos um contrato. Portanto, preciso implementar os métodos ainda não implementados, que nesse caso, é o run.
+  Classe do SpringBoot onde há um ```SpringApplication.run``` onde irá executar algo. Usando a interface CommandLineRunner, será permitido realizar algumas chamadas no método principal. Quando uma interface é implementada, temos um contrato. Portanto, preciso implementar os métodos ainda não implementados, que nesse caso, é o run.
 
 Quando o método run é implementado, o que o código indica que quando o ```public static void main``` chamar o SpringApplication.run, ele invocará esse método run que estamos implementando.
+E é nesse método que é colocado as classes que irão ser usadas.
