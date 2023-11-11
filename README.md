@@ -30,4 +30,8 @@
 
   1. TemporadaTopEpisodios.java - Classe que mostra os episódios top 10 da temporada da série escolhida pelo usuário, usando um filtro fornecido pela stream, onde buscamos somente pela avaliação do episódio, comparando-o com os restantes.
 
- 1. AvaliacoesSeries.java - Classe que usa mapeamento e stream para filtrar as avaliações de cada temporada, obtendo a média de avaliação da série por temporada. Também faz o uso da classe DoubleSummaryStatistics do Java 8, usado para fins de obter estatísticas precisas, usado no projeto para se obter a quantidade de episódios, média dos episódios, assim também como o melhor e pior episódio.
+  1. AvaliacoesSeries.java - Classe que usa mapeamento e stream para filtrar as avaliações de cada temporada, obtendo a média de avaliação da série por temporada. Também faz o uso da classe DoubleSummaryStatistics do Java 8, usado para fins de obter estatísticas precisas, usado no projeto para se obter a quantidade de episódios, média dos episódios, assim também como o melhor e pior episódio da série.
+
+  1. EncontraEpisodio.java - Classe que o usuário insere partes ou nome inteiro de um episódio para buscar e informa qual temporada ele está se for encontrado.
+
+  1. ListagemSeriesPorData.java - Classe em que é buscado na série as temporadas após a data inserida, usando LocalDate e DateTimeFormatter para formatar o tempo para o padrão brasileiro.
