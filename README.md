@@ -26,4 +26,8 @@
 
   1. BuscaSerie.java - Classe que retorna uma série dependendo da escolha do usuário, obtendo um JSON do endereço e da KEYAPI da IMBD fornecido.
 
-  1. RetornaEpisodios.java - Classe que retorna episódios de uma série escolhida pelo usuário. 
+  1. RetornaEpisodios.java - Classe que retorna episódios de uma série escolhida pelo usuário, usando mapeamento para os dados.
+
+  1. TemporadaTopEpisodios.java - Classe que mostra os episódios top 10 da temporada da série escolhida pelo usuário, usando um filtro fornecido pela stream, onde buscamos somente pela avaliação do episódio, comparando-o com os restantes.
+
+ 1. AvaliacoesSeries.java - Classe que usa mapeamento e stream para filtrar as avaliações de cada temporada, obtendo a média de avaliação da série por temporada.
