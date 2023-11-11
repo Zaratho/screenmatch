@@ -13,3 +13,7 @@
    
 1. Episodios.java -
    Classe com construtor e atributos detalhando mais cada episódio.
+
+## REPOSITORY
+
+  1. IConverteDados.java
