@@ -11,3 +11,5 @@
 1. DadosTemporadas.java -
    Record que armazena dados vindo do JSON providenciado pela API da IMDB que o número da temporada e uma lista de episodios.
    
+1. Episodios.java -
+   Classe com construtor e atributos detalhando mais cada episódio.
